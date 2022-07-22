@@ -1,0 +1,15 @@
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\bin\Debug\net6.0\Kapsulleme.exe
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\bin\Debug\net6.0\Kapsulleme.deps.json
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\bin\Debug\net6.0\Kapsulleme.runtimeconfig.json
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\bin\Debug\net6.0\Kapsulleme.dll
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\bin\Debug\net6.0\Kapsulleme.pdb
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\obj\Debug\net6.0\Kapsulleme.csproj.AssemblyReference.cache
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\obj\Debug\net6.0\Kapsulleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\obj\Debug\net6.0\Kapsulleme.AssemblyInfoInputs.cache
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\obj\Debug\net6.0\Kapsulleme.AssemblyInfo.cs
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\obj\Debug\net6.0\Kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\obj\Debug\net6.0\Kapsulleme.dll
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\obj\Debug\net6.0\refint\Kapsulleme.dll
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\obj\Debug\net6.0\Kapsulleme.pdb
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\obj\Debug\net6.0\Kapsulleme.genruntimeconfig.cache
+C:\Users\Evoon\source\repos\Kapsul ve kalıtım\Kapsul ve kalıtım\obj\Debug\net6.0\ref\Kapsulleme.dll
